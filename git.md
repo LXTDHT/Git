@@ -68,7 +68,7 @@
 > Show the working tree status.
 <br>
 
-`git add [<file>`
+`git add [<file>]`
 `git add [<directory>]`
 > Add the specified object to the index.
 
